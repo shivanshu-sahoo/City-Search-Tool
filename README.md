@@ -1,6 +1,6 @@
 # City-Search-Tool
 
-##### A ML curated City Search tool that helps you have the luxury of finding a place that suits you—and not necessarily just your career.😎
+##### A ML curated City Search tool that helps you have the luxury of finding a place that suits you and not necessarily just your career.😎
 This project is built during TamuDatathon.
 &NewLine;
 ### What on earth is this?
